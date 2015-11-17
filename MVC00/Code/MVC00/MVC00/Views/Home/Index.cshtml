@@ -1,0 +1,24 @@
+﻿@using MVC00.Models
+
+@model List<Status>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach (var item in @Model)
+{
+    <hr class="featurette-divider">
+    <!-- First Featurette -->
+    <div class="featurette" id="about">
+        <img class="featurette-image img-circle img-responsive pull-right" src="@item.ImageUrl">
+        <h2 class="featurette-heading">
+            @item.Author
+            <span class="text-muted">@item.Project</span>
+        </h2>
+        <p>@item.Timestamp.ToShortTimeString()</p>
+        <p class="lead">@item.Text</p>
+    </div>
+}
+
+

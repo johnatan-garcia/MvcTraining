@@ -1,0 +1,17 @@
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\MVC00.Tests.dll
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\MVC00.Tests.pdb
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\MVC00.dll
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\MVC00.pdb
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\obj\Debug\MVC00.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\obj\Debug\MVC00.Tests.dll
+C:\Users\Ricker\Documents\Visual Studio 2013\Projects\MVCTraining\MVC00\MVC00.Tests\obj\Debug\MVC00.Tests.pdb
